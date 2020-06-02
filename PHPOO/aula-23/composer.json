@@ -1,0 +1,15 @@
+{
+    "name": "nodestudio/composer",
+    "description": "Teste composer",
+    "require": {
+        "dompdf/dompdf": "^0.8.3",
+        "pagseguro/pagseguro-php-sdk": "^4.2",
+        "cocur/slugify": "^1.4"
+    },
+    "authors": [
+        {
+            "name": "Mateus Pereira",
+            "email": "mateusp.1996@gmail.com"
+        }
+    ]
+}
