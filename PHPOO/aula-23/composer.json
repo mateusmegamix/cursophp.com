@@ -2,7 +2,7 @@
     "name": "nodestudio/composer",
     "description": "Teste composer",
     "require": {
-        "dompdf/dompdf": "^0.8.3",
+        "dompdf/dompdf": "^2.0.1",
         "pagseguro/pagseguro-php-sdk": "^4.2",
         "cocur/slugify": "^1.4"
     },
